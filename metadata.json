@@ -1,0 +1,6 @@
+{
+  "name": "Bondhon Matrimony",
+  "description": "A premium, elegant and trustworthy Indian matrimonial application to find your life partner and build lasting bonds.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
